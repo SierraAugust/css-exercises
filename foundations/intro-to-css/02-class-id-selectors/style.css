@@ -1,0 +1,18 @@
+.paras {
+    background-color: rgb(255 ,127, 127);
+}
+
+#theOneID{
+    color: blue;
+    font-size: 36px;
+}
+
+.paras.font-3{
+   font-size: 24px; 
+}
+
+#IDno2{
+    background-color: rgb(127 ,255, 127);
+    font-size: 24px;
+    font-weight: bold;
+}
